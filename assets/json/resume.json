@@ -116,30 +116,17 @@
     {
       "name": "Technology",
       "icon": "fa-solid fa-bookmark",
-      "keywords": [
-        "Software Development",
-        "Data Structures and Algorithms",
-        "Data Enginnering",
-        "Cloud Computing"
-      ]
+      "keywords": ["Software Development", "Data Structures and Algorithms", "Data Enginnering", "Cloud Computing"]
     },
     {
       "name": "Sports",
       "icon": "fa-solid fa-bookmark",
-      "keywords": [
-        "Badminton",
-        "Chess",
-        "Cricket"
-      ]
+      "keywords": ["Badminton", "Chess", "Cricket"]
     },
     {
       "name": "Books",
       "icon": "fa-solid fa-bookmark",
-      "keywords": [
-        "Self Improvement",
-        "History"
-      ]
+      "keywords": ["Self Improvement", "History"]
     }
-  
   ]
 }
