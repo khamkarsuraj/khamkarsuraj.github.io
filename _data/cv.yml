@@ -1,94 +1,94 @@
 - title: General Information
   type: map
   contents:
-    - name: 
-      value: 
-    - name: 
-      value: 
-    - name: 
-      value: 
+    - name:
+      value:
+    - name:
+      value:
+    - name:
+      value:
 
 - title: Education
   type: time_table
   contents:
-    - title: 
-      institution: 
-      year: 
-      description: 
-        - 
-        - 
-        - title: 
-          contents: 
-            - 
-            - 
-    - title: 
-      institution: 
-      year: 
-      description: 
-        - 
-        - 
+    - title:
+      institution:
+      year:
+      description:
+        -
+        -
+        - title:
+          contents:
+            -
+            -
+    - title:
+      institution:
+      year:
+      description:
+        -
+        -
 
 - title: Experience
   type: time_table
   contents:
-    - title: 
-      institution: 
-      year: 
-      description: 
-        - 
-        - 
-        - title: 
-          contents: 
-            - 
-            - 
-    - title: 
-      institution: 
-      year: 
-      description: 
-        - 
-        - 
-    - title: 
-      institution: 
-      year: 
-    - title: 
-      institution: 
-      year: 
-      description: 
-    - title: 
-      institution: 
-      year: 
+    - title:
+      institution:
+      year:
+      description:
+        -
+        -
+        - title:
+          contents:
+            -
+            -
+    - title:
+      institution:
+      year:
+      description:
+        -
+        -
+    - title:
+      institution:
+      year:
+    - title:
+      institution:
+      year:
+      description:
+    - title:
+      institution:
+      year:
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: 
-      year: 
-      description: 
+    - title:
+      year:
+      description:
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 
-      items: 
-        - 
-        - 
-    - year: 
-      items: 
-        - 
+    - year:
+      items:
+        -
+        -
+    - year:
+      items:
+        -
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: 
-      items: 
-        - 
-        - 
-    - title: 
-      items: 
-        - 
-        - 
+    - title:
+      items:
+        -
+        -
+    - title:
+      items:
+        -
+        -
 
 - title: Other Interests
   type: list
   contents:
-    - 
+    -
