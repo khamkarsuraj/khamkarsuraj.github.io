@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>12201 Steel Creek Rd,</p>
+    <p>Charlotte, NC 28273</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey, thanks for stopping by! 👋
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a developer at [Atlantic Packaging](https://www.atlanticpkg.com/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My work focuses on developing solutions for complex computations while delivering the best user interfaces for the company, utilizing technologies like React, Azure Cloud, and more.
+
+As a technologist, I am passionate about all aspects of software engineering, data engineering, and cloud computing. I am eager to learn new technologies and collaborate with the community on open-source projects. I began my career at [EnterpriseDB](https://www.enterprisedb.com/), where I gained a solid foundation in software development and realized the vast depth of this field. It’s challenging but incredibly rewarding.
+
+> _It does not matter how slowly you go as long as you do not stop._  
+> Kong Qiu
