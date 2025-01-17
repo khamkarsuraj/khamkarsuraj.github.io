@@ -8,9 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>12201 Steel Creek Rd,</p>
-    <p>Charlotte, NC 28273</p>
+  more_info: > # <p><i class="fa-solid fa-location-dot"></i> Charlotte, NC, USA</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

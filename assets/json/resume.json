@@ -4,7 +4,6 @@
     "label": "Developer",
     "image": "",
     "email": "khamkarsuraj.b@gmail.com",
-    "phone": "(864) 765-4947",
     "url": "https://khamkarsuraj.github.io/",
     "summary": "Developer passionate about embracing new technologies and rapidly mastering them to create innovative solutions.",
     "location": {
@@ -54,12 +53,21 @@
   "volunteer": [
     {
       "name": "PostgreSQL",
-      "position": "Contributor",
+      "position": "PostgreSQL Contributor",
       "url": "https://www.postgresql.org/",
       "startDate": "2020-03-04",
       "endDate": "Present",
       "summary": "Active open-source contributor to PostgreSQL, with experience reviewing code from other developers and authoring features and enhancements. Demonstrated expertise in database systems through meaningful contributions to the PostgreSQL community.",
       "highlights": ["C", "PostgreSQL"]
+    },
+    {
+      "name": "OpenAI",
+      "position": "OpenAI Member",
+      "url": "https://community.openai.com/u/suraj_b_khamkar/",
+      "startDate": "2024-09-12",
+      "endDate": "Present",
+      "summary": "Active member of the OpenAI community with expertise in virtual assistance and ChatGPT API, collaborating with developers to optimize code implementations, and foster innovative AI-driven solutions.",
+      "highlights": ["API", "Python"]
     }
   ],
   "education": [
@@ -76,7 +84,7 @@
     },
     {
       "institution": "Shivaji University",
-      "location": "kolhapur, MH, India",
+      "location": "Kolhapur, MH, India",
       "url": "https://www.unishivaji.ac.in/",
       "area": "Electronics and Tele-Communication Enginnering",
       "studyType": "Bachlor of Enginnering",

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-1-1 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+There is no news please to the [home page]({{ site.baseurl | prepend: site.url }}).
