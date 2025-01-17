@@ -14,6 +14,12 @@ The primary objective of our project is to create a bubble chart that visualizes
 
 ---
 
+### Link
+
+[https://khamkarsuraj.github.io/data-breaches/](https://khamkarsuraj.github.io/data-breaches/)
+
+---
+
 ### Visualizations
 
 - **Bubble Chart**: Visualizes organizations and compromised information types.
