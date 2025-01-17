@@ -33,6 +33,6 @@ The primary objective of our project is to create a bubble chart that visualizes
 
 Below is the list of links to the sources from which I gathered data for the project:
 
-1. [Google Docs](https://docs.google.com/spreadsheets/d/1wPgM8ye1AUTVxlZOFsyiKEPWp6iFt34xpp2XA5iM6P0edit#gid=25233212)
+1. [Information is beautiful](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
 2. [IBM](https://www.ibm.com/reports/data-breach)
 3. [Statista](https://www.statista.com/statistics/273550/data-breaches-recorded-in-the-unitedstates-by-number-of-breaches-and-records-exposed/)
