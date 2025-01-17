@@ -390,6 +390,11 @@ ninja.data = [{
           description: "This project is visualization of data breaches in top IT companies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/data_breaches/";
+            },},{id: "projects-emojination",
+          title: 'Emojination',
+          description: "Test your memory in this engaging emoji matching game!",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/emoji_memory/";
             },},{
         id: 'social-email',
         title: 'email',
