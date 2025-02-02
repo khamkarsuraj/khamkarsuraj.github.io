@@ -37,8 +37,8 @@
       "url": "https://www.clemson.edu/index.html",
       "startDate": "2023-08-01",
       "endDate": "2023-12-31",
-      "summary": "Skilled in developing cross-platform mobile applications using React Native, ensuring broad user reach and seamless compatibility. Experienced in configuring backend systems with Node.js and MS SQL Server for secure and efficient data operations. Proficient in leveraging Azure DevOps for version control and CI/CD pipelines, enhancing development efficiency and maintaining code quality.",
-      "highlights": ["Node.js", "React Native", "Android Studio", "Xcode"]
+      "summary": "Skilled in developing cross-platform mobile applications using React Native, ensuring broad user reach and seamless compatibility. Experienced in configuring backend systems with Django and MS SQL Server for secure and efficient data operations. Proficient in leveraging Azure DevOps for version control and CI/CD pipelines, enhancing development efficiency and maintaining code quality.",
+      "highlights": ["Django", "React Native", "Android Studio", "Xcode"]
     },
     {
       "name": "EnterpriseDB",
