@@ -2,10 +2,9 @@
 layout: page
 title: Emojination
 description: Test your memory in this engaging emoji matching game!
-img: assets/img/project/emojination.jpg
+img: assets/img/project/emojination.png
 importance: 1
 category: fun
-related_publications: false
 ---
 
 ### Project Overview

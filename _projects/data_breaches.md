@@ -5,7 +5,6 @@ description: This project is visualization of data breaches in top IT companies
 img: assets/img/project/data_breaches.jpg
 importance: 1
 category: academics
-related_publications: false
 ---
 
 ### Project Overview
